@@ -15,8 +15,8 @@ public class MainClass {
 			// ArrayList<Movie>response = mapper.readValue(new File("data.json"), Movie.class);
 	        	
 	        	
-	        	Movie[] res = mapper.readValue(new File("data.json"), Movie[].class);
-				for(Movie m : res)
+	        	Movie1[] res = mapper.readValue(new File("data.json"), Movie1[].class);
+				for(Movie1 m : res)
 				{
 					System.out.println("Movie name :"+m.title);
 				}
