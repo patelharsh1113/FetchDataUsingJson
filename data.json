@@ -1,0 +1,20 @@
+[
+    {
+      "title": "Toy Story 1",
+      "year": 2009,
+      "mpaa_rating": "A",
+      "runtime": 102
+    },
+    {
+      "title": "Toy Story 2",
+      "year": 2010,
+      "mpaa_rating": "B",
+      "runtime": 103
+    },
+    {
+      "title": "Toy Story 3",
+      "year": 2011,
+      "mpaa_rating": "C",
+      "runtime": 104
+    }
+]
